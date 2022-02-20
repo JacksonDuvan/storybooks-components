@@ -1,6 +1,6 @@
 import './text.css'
 
-interface MyTextProps {
+export interface MyTextProps {
     size: 'normal'|'h1'|'h2'|'h3'
 }
 

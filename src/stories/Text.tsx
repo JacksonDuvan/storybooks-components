@@ -11,3 +11,5 @@ export const Text = ({ size = 'normal' }: MyTextProps) => {
         </p>
     )
 }
+
+export default Text

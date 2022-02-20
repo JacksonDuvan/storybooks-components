@@ -1,6 +1,6 @@
 # jz-my-storybook-components
 
-Este paquete me sirve para practicar React Compoenents + Storybook + NPM Publish
+Este paquete me sirve para practicar React Components + Storybook + NPM Publish
 
 ```
 
